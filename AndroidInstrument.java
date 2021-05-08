@@ -61,7 +61,7 @@ public class AndroidInstrument {
 
 						        // insert "tmpLong = 'HELLO';" 
 						        units.insertBefore(Jimple.v().newAssignStmt(tmpString, 
-						                      StringConstant.v("HELLO")), u);
+						                      StringConstant.v("MIA170030")), u);
 						        
 						        // insert "tmpRef.println(tmpString);" 
 						        SootMethod toCall = Scene.v().getSootClass("java.io.PrintStream").getMethod("void println(java.lang.String)");                    
