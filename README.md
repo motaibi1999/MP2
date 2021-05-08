@@ -11,9 +11,6 @@ PART 1:
 ![Screen Shot 2021-05-06 at 12 24 02 AM](https://user-images.githubusercontent.com/61093335/117246027-740ad780-ae01-11eb-848d-28f0d1311bff.png)
 
 
-
-![Screen Shot 2021-05-06 at 12 24 02 AM](https://user-images.githubusercontent.com/61093335/117246036-7836f500-ae01-11eb-9fb9-66ca779804c4.png)
-
 4) a new apk file will be generated under ./sootOutput
 
 
