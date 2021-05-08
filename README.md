@@ -31,4 +31,6 @@ PART 2:
 
 4) zipalign -p 4 my.apk my-aligned.apk
 5) jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my.keystore my-app.apk my_alias_name
-6) jarsigner -verify -verbose my_application.apk
+
+![Screen Shot 2021-05-08 at 11 36 06 AM](https://user-images.githubusercontent.com/61093335/117546754-a1b67300-aff1-11eb-95f7-b7cd7d180904.png)
+
